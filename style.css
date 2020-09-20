@@ -1,1 +1,25 @@
- 
+.container{
+    margin-bottom: 30px;
+}
+ .orange-bg{
+     background-color: blanchedalmond;
+     border-radius: 5px;
+ }
+ .carousel-item{
+     padding: 20px 40px;
+ }
+ .price{
+     color: darkorange;
+ }
+.title-product{
+    color: darkgoldenrod;
+}
+ .buy-now-button{
+     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+     color: #fff;
+     border: none;
+     border-radius: 8pz;
+     padding: 9px 25px;
+     cursor: pointer;
+
+ }
